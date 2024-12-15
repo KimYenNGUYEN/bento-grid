@@ -1,0 +1,25 @@
+{
+  "name": "bento-grid",
+  "version": "1.0.0",
+  "description": "![Design preview for the Bento grid coding challenge](./preview.jpg)",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimYenNGUYEN/bento-grid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimYenNGUYEN/bento-grid/issues"
+  },
+  "homepage": "https://github.com/KimYenNGUYEN/bento-grid#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  }
+}
